@@ -1,0 +1,6 @@
+[flyway]
+locations = ["filesystem:sql"]
+validateOnMigrate=true
+validateMigrationNaming=true
+baselineOnMigrate=true
+baselineVersion="1.0"

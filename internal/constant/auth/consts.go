@@ -1,0 +1,5 @@
+package auth
+
+const (
+	InternalAuthKey = "602a9d44a905eff7c7a7dff509e0cd87789b1e48f3eb33118f2671f2a705ef35ce572985b9e6b3cdc2a2a41706ed638dcea064e8037accda7ccf978b48db2b6e"
+)
